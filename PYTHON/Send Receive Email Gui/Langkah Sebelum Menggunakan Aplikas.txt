@@ -1,0 +1,17 @@
+Langkah Sebelum Menggunakan Aplikasi
+
+SEND EMAIL
+1. Aktifkan 2-Step Verification
+2. Cari App passwords di 2-Step Verification
+3. Pilih Select App => Other Custom Name => Nama Bisa Apa Saja (Contoh : Send Email) atau Scroll kebawah App Password => Other Custom Name => Nama Bisa Apa Saja (Contoh : Send Email)
+4. Lalu akan muncul window Generated App Password
+5. Gunakan password tersebut di aplikasi
+
+RECEIVE EMAIL
+1. Aktifkan 2-Step Verification
+2. Cari App passwords di 2-Step Verification
+3. Pilih Select App => Other Custom Name => Nama Bisa Apa Saja (Contoh : Receive Email) atau Scroll kebawah App Password => Other Custom Name => Nama Bisa Apa Saja (Contoh : Receive Email)
+4. Lalu akan muncul window Generated App Password
+5. Gunakan password tersebut di aplikasi
+
+CATATAN : Password yang di isi bukan password email kita, melainkan password dari Generated App Password yang telah kita buat dan password yang telah di buat tidak bisa di gunakan atau kita lihat lagi jika kita klik done. 
